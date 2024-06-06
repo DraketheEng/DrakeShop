@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\E-Commerce",
+    "\\E-Commerce\\Services",
+    "\\E-Commerce\\Services\\Catalog",
+    "\\E-Commerce\\Services\\Discount",
+    "\\E-Commerce\\Services\\Discount\\E-Commerce.Discount",
+    "\\E-Commerce\\Services\\Discount\\E-Commerce.Discount\\bin\\Release",
+    "\\E-Commerce\\Services\\Discount\\E-Commerce.Discount\\Context"
+  ],
+  "SelectedNode": "\\E-Commerce\\Services\\Discount",
+  "PreviewInSolutionExplorer": false
+}

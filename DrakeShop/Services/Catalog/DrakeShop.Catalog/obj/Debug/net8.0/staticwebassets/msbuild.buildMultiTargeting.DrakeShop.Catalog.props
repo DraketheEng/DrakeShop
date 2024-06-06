@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DrakeShop.Catalog.props" />
+</Project>

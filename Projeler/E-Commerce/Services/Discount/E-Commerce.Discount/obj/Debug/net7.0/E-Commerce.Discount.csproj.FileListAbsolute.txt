@@ -75,3 +75,6 @@
 /Users/drake/Desktop/drakethepimp/Projeler/E-Commerce/Services/Discount/E-Commerce.Discount/obj/Debug/net7.0/E-Commerce.Discount.pdb
 /Users/drake/Desktop/drakethepimp/Projeler/E-Commerce/Services/Discount/E-Commerce.Discount/obj/Debug/net7.0/E-Commerce.Discount.genruntimeconfig.cache
 /Users/drake/Desktop/drakethepimp/Projeler/E-Commerce/Services/Discount/E-Commerce.Discount/obj/Debug/net7.0/ref/E-Commerce.Discount.dll
+C:\Users\agirb\Desktop\E-Commerce\Projeler\E-Commerce\Services\Discount\E-Commerce.Discount\obj\Debug\net7.0\E-Commerce.Discount.dll
+C:\Users\agirb\Desktop\E-Commerce\Projeler\E-Commerce\Services\Discount\E-Commerce.Discount\obj\Debug\net7.0\refint\E-Commerce.Discount.dll
+C:\Users\agirb\Desktop\E-Commerce\Projeler\E-Commerce\Services\Discount\E-Commerce.Discount\obj\Debug\net7.0\E-Commerce.Discount.pdb

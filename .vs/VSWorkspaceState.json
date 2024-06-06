@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Projeler",
+    "\\Projeler\\E-Commerce",
+    "\\Projeler\\E-Commerce\\Services",
+    "\\Projeler\\E-Commerce\\Services\\Discount",
+    "\\Projeler\\E-Commerce\\Services\\Discount\\E-Commerce.Discount",
+    "\\Projeler\\E-Commerce\\Services\\Discount\\E-Commerce.Discount\\Context"
+  ],
+  "SelectedNode": "\\Projeler\\E-Commerce\\Services\\Discount\\E-Commerce.Discount\\Context\\DapperContext.cs",
+  "PreviewInSolutionExplorer": false
+}

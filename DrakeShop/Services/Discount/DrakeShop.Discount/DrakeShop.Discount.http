@@ -1,0 +1,6 @@
+@DrakeShop.Discount_HostAddress = http://localhost:5068
+
+GET {{DrakeShop.Discount_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

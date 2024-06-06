@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Presentation\\DrakeShop.Order.WebApi\\DrakeShop.Order.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Application\\DrakeShop.Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Application\\DrakeShop.Order.Application.csproj",
+        "projectName": "DrakeShop.Order.Application",
+        "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Application\\DrakeShop.Order.Application.csproj",
+        "packagesPath": "C:\\Users\\agirb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\agirb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Domain\\DrakeShop.Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Domain\\DrakeShop.Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Domain\\DrakeShop.Order.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Domain\\DrakeShop.Order.Domain.csproj",
+        "projectName": "DrakeShop.Order.Domain",
+        "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Domain\\DrakeShop.Order.Domain.csproj",
+        "packagesPath": "C:\\Users\\agirb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\agirb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Infrastructure\\DrakeShop.Order.Persistence\\DrakeShop.Order.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Infrastructure\\DrakeShop.Order.Persistence\\DrakeShop.Order.Persistence.csproj",
+        "projectName": "DrakeShop.Order.Persistence",
+        "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Infrastructure\\DrakeShop.Order.Persistence\\DrakeShop.Order.Persistence.csproj",
+        "packagesPath": "C:\\Users\\agirb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Infrastructure\\DrakeShop.Order.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\agirb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Application\\DrakeShop.Order.Application.csproj": {
+                "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Application\\DrakeShop.Order.Application.csproj"
+              },
+              "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Domain\\DrakeShop.Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Domain\\DrakeShop.Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Presentation\\DrakeShop.Order.WebApi\\DrakeShop.Order.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Presentation\\DrakeShop.Order.WebApi\\DrakeShop.Order.WebApi.csproj",
+        "projectName": "DrakeShop.Order.WebApi",
+        "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Presentation\\DrakeShop.Order.WebApi\\DrakeShop.Order.WebApi.csproj",
+        "packagesPath": "C:\\Users\\agirb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Presentation\\DrakeShop.Order.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\agirb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Application\\DrakeShop.Order.Application.csproj": {
+                "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Core\\DrakeShop.Order.Application\\DrakeShop.Order.Application.csproj"
+              },
+              "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Infrastructure\\DrakeShop.Order.Persistence\\DrakeShop.Order.Persistence.csproj": {
+                "projectPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\Services\\Order\\Infrastructure\\DrakeShop.Order.Persistence\\DrakeShop.Order.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
