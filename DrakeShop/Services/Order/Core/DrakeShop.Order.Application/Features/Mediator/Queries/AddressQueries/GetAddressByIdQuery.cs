@@ -10,5 +10,12 @@ namespace DrakeShop.Order.Application.Features.Mediator.Queries.AddressQueries
 {
     public class GetAddressByIdQuery : IRequest<GetAddressByIdQueryResult>
     {
+        public int Id { get; set; }
+
+        public GetAddressByIdQuery(int id)
+        {
+            Id = id;
+        }
+
     }
 }

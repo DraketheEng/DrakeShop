@@ -1,0 +1,12 @@
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\bin\Debug\net8.0\DrakeShop.Order.Domain.deps.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\bin\Debug\net8.0\DrakeShop.Order.Domain.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\bin\Debug\net8.0\DrakeShop.Order.Domain.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\DrakeShop.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\DrakeShop.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\DrakeShop.Order.Domain.AssemblyInfo.cs
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\DrakeShop.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\DrakeShop.Order.Domain.sourcelink.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\DrakeShop.Order.Domain.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\refint\DrakeShop.Order.Domain.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\DrakeShop.Order.Domain.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Domain\obj\Debug\net8.0\ref\DrakeShop.Order.Domain.dll

@@ -12,7 +12,7 @@ namespace DrakeShop.Order.Persistence.Context
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("");
+            optionsBuilder.UseSqlServer("Server=localhost,1440;initial Catalog=DrakeShopOrderDb;User=sa;Password=15937557350Aa;TrustServerCertificate=True;");
         }
 
         public DbSet<Address> Addresses { get; set; }

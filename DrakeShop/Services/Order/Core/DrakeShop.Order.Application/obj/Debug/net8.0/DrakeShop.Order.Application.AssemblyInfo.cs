@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrakeShop.Order.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b0455008d284ff7f84a5368a21601280db24515")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e11be241502293741dd397e852d8e7c2c410dad")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrakeShop.Order.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrakeShop.Order.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

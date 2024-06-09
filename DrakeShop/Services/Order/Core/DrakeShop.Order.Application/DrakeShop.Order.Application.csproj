@@ -16,8 +16,4 @@
     <ProjectReference Include="..\DrakeShop.Order.Domain\DrakeShop.Order.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Features\Mediator\Handlers\OrderDetailHandlers\" />
-  </ItemGroup>
-
 </Project>

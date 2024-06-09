@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qJsvVm1Vv2KgO3YsKRfpWT4ZSr0aHCdzK7BvSitH8qQ=",
+  "Source": "DrakeShop.Order.WebApi",
+  "BasePath": "_content/DrakeShop.Order.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

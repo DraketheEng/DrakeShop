@@ -10,3 +10,7 @@ C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\Dra
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Application\obj\Debug\net8.0\refint\DrakeShop.Order.Application.dll
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Application\obj\Debug\net8.0\DrakeShop.Order.Application.pdb
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Application\obj\Debug\net8.0\ref\DrakeShop.Order.Application.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Application\bin\Debug\net8.0\DrakeShop.Order.Domain.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Application\bin\Debug\net8.0\DrakeShop.Order.Domain.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Application\obj\Debug\net8.0\DrakeShop.Order.Application.csproj.AssemblyReference.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Core\DrakeShop.Order.Application\obj\Debug\net8.0\DrakeSho.BA5933AB.Up2Date

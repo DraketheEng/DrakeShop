@@ -1,10 +1,12 @@
 using DrakeShop.Order.Application.Interfaces;
 using DrakeShop.Order.Application.Services;
+using DrakeShop.Order.Persistence.Context;
 using DrakeShop.Order.Persistence.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<OrderContext>();
 
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddApplicationService(builder.Configuration);

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DrakeShop.Order.WebApi.props" />
+</Project>
