@@ -90,3 +90,11 @@ C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeS
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\obj\Debug\net8.0\DrakeShop.Catalog.pdb
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\obj\Debug\net8.0\DrakeShop.Catalog.genruntimeconfig.cache
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\obj\Debug\net8.0\ref\DrakeShop.Catalog.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Catalog\DrakeShop.Catalog\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

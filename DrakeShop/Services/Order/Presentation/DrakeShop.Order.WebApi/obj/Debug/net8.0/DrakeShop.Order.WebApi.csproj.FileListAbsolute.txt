@@ -144,3 +144,4 @@ C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Presenta
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Presentation\DrakeShop.Order.WebApi\obj\Debug\net8.0\DrakeShop.Order.WebApi.pdb
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Presentation\DrakeShop.Order.WebApi\obj\Debug\net8.0\DrakeShop.Order.WebApi.genruntimeconfig.cache
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Presentation\DrakeShop.Order.WebApi\obj\Debug\net8.0\ref\DrakeShop.Order.WebApi.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Order\Presentation\DrakeShop.Order.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

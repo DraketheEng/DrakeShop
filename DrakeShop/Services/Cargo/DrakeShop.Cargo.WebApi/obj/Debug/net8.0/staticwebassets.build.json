@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l6mUAKtd0VOUs9C0YCOw+KjUn6VS/go/MKZmRMvElT0=",
+  "Source": "DrakeShop.Cargo.WebApi",
+  "BasePath": "_content/DrakeShop.Cargo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

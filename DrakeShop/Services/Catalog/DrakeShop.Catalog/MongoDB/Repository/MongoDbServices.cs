@@ -8,7 +8,7 @@ namespace DrakeShop.Catalog.MongoDB.Repository;
 public class MongoDbServices<TDocument> : IMongoDbServices<TDocument> where TDocument : IDocument
 {
     protected readonly IMongoCollection<TDocument> Collection;
-    
+
     public MongoDbServices(IMongoDbSettings settings)
     {
         var database = new MongoClient(settings.ConnectionString).GetDatabase(settings.DatabaseName);
@@ -20,8 +20,8 @@ public class MongoDbServices<TDocument> : IMongoDbServices<TDocument> where TDoc
     {
         return ((BsonCollectionAttribute)documentType.GetCustomAttributes(typeof(BsonCollectionAttribute), true).FirstOrDefault()!)?.CollectionName;
     }
-    
-  
+
+
     public virtual IEnumerable<TDocument> FilterBy(Expression<Func<TDocument, bool>> filterExpression)
     {
         return Collection.Find(filterExpression).ToEnumerable();
@@ -42,7 +42,7 @@ public class MongoDbServices<TDocument> : IMongoDbServices<TDocument> where TDoc
         var filter = Builders<TDocument>.Filter.Eq(doc => doc.Id, id);
         return Collection.Find(filter).SingleOrDefault();
     }
-    
+
     public virtual Task<TDocument> FindByIdAsync(string id)
     {
         return Task.Run(() =>
@@ -51,7 +51,7 @@ public class MongoDbServices<TDocument> : IMongoDbServices<TDocument> where TDoc
             return Collection.Find(filter).SingleOrDefaultAsync();
         });
     }
-    
+
     public virtual void InsertOne(TDocument document)
     {
         if (string.IsNullOrEmpty(document.Id))
@@ -75,67 +75,67 @@ public class MongoDbServices<TDocument> : IMongoDbServices<TDocument> where TDoc
 
         return Task.Run(() => Collection.InsertOneAsync(document));
     }
-    
-    
-        public void InsertMany(ICollection<TDocument> documents)
-        {
-            Collection.InsertMany(documents);
-        }
 
 
-        public virtual async Task InsertManyAsync(ICollection<TDocument> documents)
-        {
-            await Collection.InsertManyAsync(documents);
-        }
+    public void InsertMany(ICollection<TDocument> documents)
+    {
+        Collection.InsertMany(documents);
+    }
 
-        public void ReplaceOne(TDocument document)
-        {
-            document.UpdateDate = DateTime.Now;
 
-            var filter = Builders<TDocument>.Filter.Eq(doc => doc.Id, document.Id);
-            Collection.FindOneAndReplace(filter, document);
-        }
+    public virtual async Task InsertManyAsync(ICollection<TDocument> documents)
+    {
+        await Collection.InsertManyAsync(documents);
+    }
 
-        public virtual async Task ReplaceOneAsync(TDocument document)
-        {
-            document.UpdateDate = DateTime.Now;
+    public void ReplaceOne(TDocument document)
+    {
+        document.UpdateDate = DateTime.Now;
 
-            var filter = Builders<TDocument>.Filter.Eq(doc => doc.Id, document.Id);
-            await Collection.FindOneAndReplaceAsync(filter, document);
-        }
+        var filter = Builders<TDocument>.Filter.Eq(doc => doc.Id, document.Id);
+        Collection.FindOneAndReplace(filter, document);
+    }
 
-        public void DeleteOne(Expression<Func<TDocument, bool>> filterExpression)
-        {
-            Collection.FindOneAndDelete(filterExpression);
-        }
+    public virtual async Task ReplaceOneAsync(TDocument document)
+    {
+        document.UpdateDate = DateTime.Now;
 
-        public Task DeleteOneAsync(Expression<Func<TDocument, bool>> filterExpression)
-        {
-            return Task.Run(() => Collection.FindOneAndDeleteAsync(filterExpression));
-        }
+        var filter = Builders<TDocument>.Filter.Eq(doc => doc.Id, document.Id);
+        await Collection.FindOneAndReplaceAsync(filter, document);
+    }
 
-        public void DeleteById(string id)
+    public void DeleteOne(Expression<Func<TDocument, bool>> filterExpression)
+    {
+        Collection.FindOneAndDelete(filterExpression);
+    }
+
+    public Task DeleteOneAsync(Expression<Func<TDocument, bool>> filterExpression)
+    {
+        return Task.Run(() => Collection.FindOneAndDeleteAsync(filterExpression));
+    }
+
+    public void DeleteById(string id)
+    {
+        var filter = Builders<TDocument>.Filter.Eq(doc => doc.Id, id);
+        Collection.FindOneAndDelete(filter);
+    }
+
+    public Task DeleteByIdAsync(string id)
+    {
+        return Task.Run(() =>
         {
             var filter = Builders<TDocument>.Filter.Eq(doc => doc.Id, id);
-            Collection.FindOneAndDelete(filter);
-        }
+            Collection.FindOneAndDeleteAsync(filter);
+        });
+    }
 
-        public Task DeleteByIdAsync(string id)
-        {
-            return Task.Run(() =>
-            {
-                var filter = Builders<TDocument>.Filter.Eq(doc => doc.Id, id);
-                Collection.FindOneAndDeleteAsync(filter);
-            });
-        }
+    public void DeleteMany(Expression<Func<TDocument, bool>> filterExpression)
+    {
+        Collection.DeleteMany(filterExpression);
+    }
 
-        public void DeleteMany(Expression<Func<TDocument, bool>> filterExpression)
-        {
-            Collection.DeleteMany(filterExpression);
-        }
-
-        public Task DeleteManyAsync(Expression<Func<TDocument, bool>> filterExpression)
-        {
-            return Task.Run(() => Collection.DeleteManyAsync(filterExpression));
-        }
+    public Task DeleteManyAsync(Expression<Func<TDocument, bool>> filterExpression)
+    {
+        return Task.Run(() => Collection.DeleteManyAsync(filterExpression));
+    }
 }

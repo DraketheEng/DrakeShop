@@ -9,17 +9,17 @@ namespace DrakeShop.IdentityServer
     {
 
         public static IEnumerable<ApiResource> ApiResources => new ApiResource[] { 
-            new ApiResource("ResourceCatalog"){Scopes = { " CatalogFullPermission " , " CatalogReadPermission " } },
-            new ApiResource("ResourceDiscount"){Scopes = { " DiscounFullPermission " } },
-            new ApiResource("ResourceOrder"){Scopes = { " OrderFullPermission " } },
+            new ApiResource("ResourceCatalog"){Scopes = { "CatalogFullPermission", "CatalogReadPermission" } },
+            new ApiResource("ResourceDiscount"){Scopes = { "DiscounFullPermission" } },
+            new ApiResource("ResourceOrder"){Scopes = { "OrderFullPermission" } },
+            new ApiResource("ResourceCargo"){Scopes = { "CargoFullPermission" } },
             new ApiResource(IdentityServerConstants.LocalApi.ScopeName),
-
         };
 
-        public static IEnumerable<IdentityResource> IdentityResources => new IdentityResource[] { 
-            //new IdentityResources.OpenId(),
-            //new IdentityResources.Email(),
-            //new IdentityResources.Profile(),
+        public static IEnumerable<IdentityResource> IdentityResources => new IdentityResource[] {
+            new IdentityResources.OpenId(),
+            new IdentityResources.Email(),
+            new IdentityResources.Profile(),
         };
 
         public static IEnumerable<ApiScope> ApiScopes => new ApiScope[] { 
@@ -27,6 +27,7 @@ namespace DrakeShop.IdentityServer
             new ApiScope("CatalogReadPermission","Reading authority for catalog operations"),
             new ApiScope("DiscountFullPermission","Full authority for discount operations"),
             new ApiScope("OrderFullPermission","Full authority for order operations"),
+            new ApiScope("CargoFullPermission","Full authority for cargo operations"),
             new ApiScope(IdentityServerConstants.LocalApi.ScopeName),
         };
 
@@ -49,7 +50,7 @@ namespace DrakeShop.IdentityServer
                 ClientName = "DrakeShop Manager user",
                 AllowedGrantTypes = GrantTypes.ClientCredentials,
                 ClientSecrets = { new Secret("drakeshopsecret".Sha256()) },
-                AllowedScopes = { "CatalogReadPermission" , " CatalogFullPermission " }
+                AllowedScopes = { "CatalogReadPermission", " CatalogFullPermission " }
             },
 
              //Admin
@@ -59,7 +60,7 @@ namespace DrakeShop.IdentityServer
                 ClientName = "DrakeShop Admin user",
                 AllowedGrantTypes = GrantTypes.ClientCredentials,
                 ClientSecrets = { new Secret("drakeshopsecret".Sha256()) },
-                AllowedScopes = { "CatalogReadPermission" , " CatalogFullPermission " , " DiscountFullPermission ", " OrderFullPermission " ,
+                AllowedScopes = { "CatalogReadPermission", "CatalogFullPermission", "DiscountFullPermission", "OrderFullPermission", "CargoFullPermission",
                 IdentityServerConstants.LocalApi.ScopeName,
                 IdentityServerConstants.StandardScopes.Email,
                 IdentityServerConstants.StandardScopes.OpenId,

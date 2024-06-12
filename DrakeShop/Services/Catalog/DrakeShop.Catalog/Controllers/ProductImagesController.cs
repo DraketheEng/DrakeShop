@@ -1,11 +1,13 @@
 using DrakeShop.Catalog.Entities;
 using DrakeShop.Catalog.Services.ProductImageServices;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace DrakeShop.Catalog.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductImageController : ControllerBase

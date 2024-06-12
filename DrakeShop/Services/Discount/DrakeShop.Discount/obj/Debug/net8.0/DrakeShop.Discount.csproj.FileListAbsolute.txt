@@ -274,3 +274,4 @@ C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Discount\Drake
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Discount\DrakeShop.Discount\obj\Debug\net8.0\DrakeShop.Discount.pdb
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Discount\DrakeShop.Discount\obj\Debug\net8.0\DrakeShop.Discount.genruntimeconfig.cache
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Discount\DrakeShop.Discount\obj\Debug\net8.0\ref\DrakeShop.Discount.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Discount\DrakeShop.Discount\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

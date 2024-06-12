@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DrakeShop.Cargo.WebApi.props" />
+</Project>

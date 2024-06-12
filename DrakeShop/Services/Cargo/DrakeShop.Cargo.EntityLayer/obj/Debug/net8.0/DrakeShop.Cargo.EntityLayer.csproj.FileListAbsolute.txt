@@ -1,0 +1,15 @@
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\bin\Debug\net8.0\DrakeShop.Cargo.EntityLayer.deps.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\bin\Debug\net8.0\DrakeShop.Cargo.EntityLayer.runtimeconfig.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\bin\Debug\net8.0\DrakeShop.Cargo.EntityLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\bin\Debug\net8.0\DrakeShop.Cargo.EntityLayer.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.AssemblyInfo.cs
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.sourcelink.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\refint\DrakeShop.Cargo.EntityLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\DrakeShop.Cargo.EntityLayer.genruntimeconfig.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.EntityLayer\obj\Debug\net8.0\ref\DrakeShop.Cargo.EntityLayer.dll

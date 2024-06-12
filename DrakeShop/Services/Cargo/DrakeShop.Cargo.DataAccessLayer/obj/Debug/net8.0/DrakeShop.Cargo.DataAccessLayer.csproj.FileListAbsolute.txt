@@ -1,0 +1,16 @@
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\bin\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.deps.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\bin\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\bin\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\bin\Debug\net8.0\DrakeShop.Cargo.EntityLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\bin\Debug\net8.0\DrakeShop.Cargo.EntityLayer.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.AssemblyInfo.cs
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.sourcelink.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeSho.2309CC73.Up2Date
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\refint\DrakeShop.Cargo.DataAccessLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\DrakeShop.Cargo.DataAccessLayer.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DataAccessLayer\obj\Debug\net8.0\ref\DrakeShop.Cargo.DataAccessLayer.dll

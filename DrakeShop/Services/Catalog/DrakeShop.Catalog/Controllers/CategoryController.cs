@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using DrakeShop.Catalog.Entities;
 using DrakeShop.Catalog.Services.CategoryServices;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DrakeShop.Catalog.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CategoryController : ControllerBase

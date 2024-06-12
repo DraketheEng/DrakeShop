@@ -1,0 +1,16 @@
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\bin\Debug\net8.0\DrakeShop.Cargo.DtoLayer.deps.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\bin\Debug\net8.0\DrakeShop.Cargo.DtoLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\bin\Debug\net8.0\DrakeShop.Cargo.DtoLayer.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeShop.Cargo.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeShop.Cargo.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeShop.Cargo.DtoLayer.AssemblyInfo.cs
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeShop.Cargo.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeShop.Cargo.DtoLayer.sourcelink.json
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeShop.Cargo.DtoLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\refint\DrakeShop.Cargo.DtoLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeShop.Cargo.DtoLayer.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\ref\DrakeShop.Cargo.DtoLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\bin\Debug\net8.0\DrakeShop.Cargo.EntityLayer.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\bin\Debug\net8.0\DrakeShop.Cargo.EntityLayer.pdb
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeShop.Cargo.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Cargo\DrakeShop.Cargo.DtoLayer\obj\Debug\net8.0\DrakeSho.B26549C0.Up2Date

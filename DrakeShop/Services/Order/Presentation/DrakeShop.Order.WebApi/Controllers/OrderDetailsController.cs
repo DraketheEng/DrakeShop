@@ -1,11 +1,13 @@
 ﻿using DrakeShop.Order.Application.Features.Mediator.Commands.OrderDetailCommands;
 using DrakeShop.Order.Application.Features.Mediator.Queries.OrderDetailQueries;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DrakeShop.Order.WebApi.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class OrderDetailsController : ControllerBase
