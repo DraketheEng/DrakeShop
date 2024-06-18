@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrakeShop.Basket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f20927307f1ac70000fad6b5ce53b2c579e5f170")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571da2f7182614b0d4d54827757e3929f52f358a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrakeShop.Basket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrakeShop.Basket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

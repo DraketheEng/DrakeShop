@@ -4,6 +4,7 @@ using DrakeShop.Catalog.Services.CategoryServices;
 using DrakeShop.Catalog.Services.ProductDetailServices;
 using DrakeShop.Catalog.Services.ProductImageServices;
 using DrakeShop.Catalog.Services.ProductServices;
+using DrakeShop.Catalog.Services.SpecialOfferServices;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Options;
 
@@ -26,6 +27,7 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IProductDetailService, ProductDetailService>();
 builder.Services.AddScoped<IProductImageService, ProductImageService>();
+builder.Services.AddScoped<ISpecialOfferService, SpecialOfferService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
