@@ -57,7 +57,24 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrakeShop.Comment", "Servic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contact", "Contact", "{877BEC93-C053-4429-8D6A-4559E6D646CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrakeShop.Contact", "Services\Contact\DrakeShop.Contact\DrakeShop.Contact.csproj", "{4715B7D8-DDA1-46CC-B389-3D79EB2A4775}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrakeShop.Contact", "Services\Contact\DrakeShop.Contact\DrakeShop.Contact.csproj", "{4715B7D8-DDA1-46CC-B389-3D79EB2A4775}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{65DFB5F2-C62D-45BA-9E96-64DC4D8EFF06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RapidApi", "RapidApi", "{C6002A67-3B19-4143-A83F-3B0BB414ADA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirement", "Requirement", "{E6AEEB53-BE24-4022-8D9C-10B99C9EBD8F}"
+	ProjectSection(SolutionItems) = preProject
+		AppUsers.txt = AppUsers.txt
+		OcelotTest.txt = OcelotTest.txt
+		PortNumbers.txt = PortNumbers.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{5F935F31-612A-46EA-9645-34927F295F6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrakeShop.Images", "Services\Images\DrakeShop.Images\DrakeShop.Images.csproj", "{AC6C876D-AF15-4292-9CF3-DDABFFB01EC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrakeShop.OcelotGateway", "ApiGateway\DrakeShop.OcelotGateway\DrakeShop.OcelotGateway.csproj", "{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +142,14 @@ Global
 		{4715B7D8-DDA1-46CC-B389-3D79EB2A4775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4715B7D8-DDA1-46CC-B389-3D79EB2A4775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4715B7D8-DDA1-46CC-B389-3D79EB2A4775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6C876D-AF15-4292-9CF3-DDABFFB01EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6C876D-AF15-4292-9CF3-DDABFFB01EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6C876D-AF15-4292-9CF3-DDABFFB01EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6C876D-AF15-4292-9CF3-DDABFFB01EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -156,6 +181,9 @@ Global
 		{B6A9421E-7811-4083-ADBA-CC57CB0816ED} = {3D2CB222-7E43-4459-9C7F-05B38E275DC8}
 		{877BEC93-C053-4429-8D6A-4559E6D646CC} = {62A421E4-C5FC-4894-AF99-673E2A3014CE}
 		{4715B7D8-DDA1-46CC-B389-3D79EB2A4775} = {877BEC93-C053-4429-8D6A-4559E6D646CC}
+		{5F935F31-612A-46EA-9645-34927F295F6C} = {62A421E4-C5FC-4894-AF99-673E2A3014CE}
+		{AC6C876D-AF15-4292-9CF3-DDABFFB01EC3} = {5F935F31-612A-46EA-9645-34927F295F6C}
+		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C} = {65DFB5F2-C62D-45BA-9E96-64DC4D8EFF06}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7659A34E-05A1-4FCC-B533-86D94C3A0AAF}

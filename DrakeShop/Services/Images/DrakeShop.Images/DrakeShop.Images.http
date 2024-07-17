@@ -1,0 +1,6 @@
+@DrakeShop.Images_HostAddress = http://localhost:5261
+
+GET {{DrakeShop.Images_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
