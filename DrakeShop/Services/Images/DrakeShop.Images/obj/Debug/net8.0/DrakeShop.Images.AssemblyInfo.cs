@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrakeShop.Images")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32113d16102bbf701b39657064a6e2577a5a73e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+809998f29dca17826ec86a3678cd1181e8c12575")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrakeShop.Images")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrakeShop.Images")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

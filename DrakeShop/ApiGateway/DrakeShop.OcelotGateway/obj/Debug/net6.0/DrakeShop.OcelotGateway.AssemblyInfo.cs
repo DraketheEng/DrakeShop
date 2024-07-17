@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrakeShop.OcelotGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32113d16102bbf701b39657064a6e2577a5a73e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2c0ca24e9174910d50376af7e4c214f7769a43a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrakeShop.OcelotGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrakeShop.OcelotGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
