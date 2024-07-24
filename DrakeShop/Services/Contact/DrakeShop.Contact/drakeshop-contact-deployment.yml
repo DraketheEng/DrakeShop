@@ -1,0 +1,22 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drakeshop-contact-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: drakeshop-contact
+  template:
+    metadata:
+      labels:
+        app: drakeshop-contact
+    spec:
+      containers:
+      - name: drakeshop-contact
+        image: drakeshop-contact:latest
+        ports:
+        - containerPort: 8084
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"

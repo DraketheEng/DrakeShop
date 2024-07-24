@@ -1,0 +1,32 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drakeshop-iyzicopayment-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: drakeshop-iyzicopayment
+  template:
+    metadata:
+      labels:
+        app: drakeshop-iyzicopayment
+    spec:
+      containers:
+      - name: drakeshop-iyzicopayment
+        image: drakeshop-iyzicopayment:latest
+        ports:
+        - containerPort: 8080
+        env:
+        - name: ApiKey
+          valueFrom:
+            secretKeyRef:
+              name: drakeshop-iyzicopayment-secret
+              key: ApiKey
+        - name: SecretKey
+          valueFrom:
+            secretKeyRef:
+              name: drakeshop-iyzicopayment-secret
+              key: SecretKey
+        - name: BaseUrl
+          value: "https://sandbox-api.iyzipay.com"

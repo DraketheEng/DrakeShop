@@ -1,0 +1,22 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drakeshop-ocelotgateway-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: drakeshop-ocelotgateway
+  template:
+    metadata:
+      labels:
+        app: drakeshop-ocelotgateway
+    spec:
+      containers:
+      - name: drakeshop-ocelotgateway
+        image: drakeshop-ocelotgateway:latest
+        ports:
+        - containerPort: 80
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"

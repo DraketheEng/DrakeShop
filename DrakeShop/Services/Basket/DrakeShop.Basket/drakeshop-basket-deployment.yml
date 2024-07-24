@@ -1,0 +1,22 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drakeshop-basket-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: drakeshop-basket
+  template:
+    metadata:
+      labels:
+        app: drakeshop-basket
+    spec:
+      containers:
+      - name: drakeshop-basket
+        image: drakeshop-basket:latest
+        ports:
+        - containerPort: 8090
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"

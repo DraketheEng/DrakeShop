@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5B29BB-F037-4BC7-82A3-DB36B6EBEC8C}|IdentityServer\\DrakeShop.IdentityServer\\DrakeShop.IdentityServer.csproj|c:\\users\\agirb\\desktop\\can\\projeler\\e-commerce\\drakeshop\\identityserver\\drakeshop.identityserver\\drakeshop-identityserver-deployment.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD5B29BB-F037-4BC7-82A3-DB36B6EBEC8C}|IdentityServer\\DrakeShop.IdentityServer\\DrakeShop.IdentityServer.csproj|solutionrelative:identityserver\\drakeshop.identityserver\\drakeshop-identityserver-deployment.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5B29BB-F037-4BC7-82A3-DB36B6EBEC8C}|IdentityServer\\DrakeShop.IdentityServer\\DrakeShop.IdentityServer.csproj|c:\\users\\agirb\\desktop\\can\\projeler\\e-commerce\\drakeshop\\identityserver\\drakeshop.identityserver\\drakeshop-identityserver-service.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD5B29BB-F037-4BC7-82A3-DB36B6EBEC8C}|IdentityServer\\DrakeShop.IdentityServer\\DrakeShop.IdentityServer.csproj|solutionrelative:identityserver\\drakeshop.identityserver\\drakeshop-identityserver-service.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5B29BB-F037-4BC7-82A3-DB36B6EBEC8C}|IdentityServer\\DrakeShop.IdentityServer\\DrakeShop.IdentityServer.csproj|c:\\users\\agirb\\desktop\\can\\projeler\\e-commerce\\drakeshop\\identityserver\\drakeshop.identityserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD5B29BB-F037-4BC7-82A3-DB36B6EBEC8C}|IdentityServer\\DrakeShop.IdentityServer\\DrakeShop.IdentityServer.csproj|solutionrelative:identityserver\\drakeshop.identityserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "drakeshop-identityserver-deployment.yml",
+              "DocumentMoniker": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\IdentityServer\\DrakeShop.IdentityServer\\drakeshop-identityserver-deployment.yml",
+              "RelativeDocumentMoniker": "IdentityServer\\DrakeShop.IdentityServer\\drakeshop-identityserver-deployment.yml",
+              "ToolTip": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\IdentityServer\\DrakeShop.IdentityServer\\drakeshop-identityserver-deployment.yml",
+              "RelativeToolTip": "IdentityServer\\DrakeShop.IdentityServer\\drakeshop-identityserver-deployment.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-24T16:59:51.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "drakeshop-identityserver-service.yml",
+              "DocumentMoniker": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\IdentityServer\\DrakeShop.IdentityServer\\drakeshop-identityserver-service.yml",
+              "RelativeDocumentMoniker": "IdentityServer\\DrakeShop.IdentityServer\\drakeshop-identityserver-service.yml",
+              "ToolTip": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\IdentityServer\\DrakeShop.IdentityServer\\drakeshop-identityserver-service.yml",
+              "RelativeToolTip": "IdentityServer\\DrakeShop.IdentityServer\\drakeshop-identityserver-service.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-24T16:59:48.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\IdentityServer\\DrakeShop.IdentityServer\\Dockerfile",
+              "RelativeDocumentMoniker": "IdentityServer\\DrakeShop.IdentityServer\\Dockerfile",
+              "ToolTip": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\IdentityServer\\DrakeShop.IdentityServer\\Dockerfile",
+              "RelativeToolTip": "IdentityServer\\DrakeShop.IdentityServer\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-24T16:59:40.636Z",
+              "EditorCaption": ""
             }
           ]
         }

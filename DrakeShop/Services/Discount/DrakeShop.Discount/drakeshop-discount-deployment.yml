@@ -1,0 +1,22 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drakeshop-discount-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: drakeshop-discount
+  template:
+    metadata:
+      labels:
+        app: drakeshop-discount
+    spec:
+      containers:
+      - name: drakeshop-discount
+        image: drakeshop-discount:latest
+        ports:
+        - containerPort: 8085
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"

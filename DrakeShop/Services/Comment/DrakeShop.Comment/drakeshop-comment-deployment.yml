@@ -1,0 +1,22 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drakeshop-comment-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: drakeshop-comment
+  template:
+    metadata:
+      labels:
+        app: drakeshop-comment
+    spec:
+      containers:
+      - name: drakeshop-comment
+        image: drakeshop-comment:latest
+        ports:
+        - containerPort: 8083
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"

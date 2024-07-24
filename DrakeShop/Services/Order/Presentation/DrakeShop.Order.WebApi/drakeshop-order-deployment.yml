@@ -1,0 +1,22 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drakeshop-order-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: drakeshop-order
+  template:
+    metadata:
+      labels:
+        app: drakeshop-order
+    spec:
+      containers:
+      - name: drakeshop-order
+        image: drakeshop-order:latest
+        ports:
+        - containerPort: 8087
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"

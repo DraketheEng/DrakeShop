@@ -1,0 +1,12 @@
+﻿apiVersion: v1
+kind: Service
+metadata:
+  name: drakeshop-images-service
+spec:
+  type: LoadBalancer
+  selector:
+    app: drakeshop-images
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 8086
