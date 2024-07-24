@@ -61,8 +61,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrakeShop.Contact", "Servic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{65DFB5F2-C62D-45BA-9E96-64DC4D8EFF06}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RapidApi", "RapidApi", "{C6002A67-3B19-4143-A83F-3B0BB414ADA0}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirement", "Requirement", "{E6AEEB53-BE24-4022-8D9C-10B99C9EBD8F}"
 	ProjectSection(SolutionItems) = preProject
 		AppUsers.txt = AppUsers.txt
@@ -75,6 +73,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrakeShop.Images", "Services\Images\DrakeShop.Images\DrakeShop.Images.csproj", "{AC6C876D-AF15-4292-9CF3-DDABFFB01EC3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrakeShop.OcelotGateway", "ApiGateway\DrakeShop.OcelotGateway\DrakeShop.OcelotGateway.csproj", "{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IyzicoPayment", "IyzicoPayment", "{F1C95C95-A337-4968-BCD5-47A1977BBBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrakeShop.IyzicoPayment", "Services\IyzicoPayment\DrakeShop.IyzicoPayment\DrakeShop.IyzicoPayment.csproj", "{0C40E9EA-59CF-4C21-ACE8-7725271C1D1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -150,6 +152,10 @@ Global
 		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C40E9EA-59CF-4C21-ACE8-7725271C1D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C40E9EA-59CF-4C21-ACE8-7725271C1D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C40E9EA-59CF-4C21-ACE8-7725271C1D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C40E9EA-59CF-4C21-ACE8-7725271C1D1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -184,6 +190,8 @@ Global
 		{5F935F31-612A-46EA-9645-34927F295F6C} = {62A421E4-C5FC-4894-AF99-673E2A3014CE}
 		{AC6C876D-AF15-4292-9CF3-DDABFFB01EC3} = {5F935F31-612A-46EA-9645-34927F295F6C}
 		{380EDA93-1858-4ABE-B16B-DE6DE51DD64C} = {65DFB5F2-C62D-45BA-9E96-64DC4D8EFF06}
+		{F1C95C95-A337-4968-BCD5-47A1977BBBE9} = {62A421E4-C5FC-4894-AF99-673E2A3014CE}
+		{0C40E9EA-59CF-4C21-ACE8-7725271C1D1E} = {F1C95C95-A337-4968-BCD5-47A1977BBBE9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7659A34E-05A1-4FCC-B533-86D94C3A0AAF}

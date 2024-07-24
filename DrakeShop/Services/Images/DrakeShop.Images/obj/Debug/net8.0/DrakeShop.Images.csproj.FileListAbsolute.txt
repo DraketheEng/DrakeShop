@@ -1,6 +1,5 @@
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\appsettings.json
-C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\storage-429410-9203e7212934.json
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\DrakeShop.Images.exe
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\DrakeShop.Images.deps.json
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\DrakeShop.Images.runtimeconfig.json
@@ -57,3 +56,4 @@ C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeSh
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\agirb\Desktop\CAN\PROJELER\E-Commerce\DrakeShop\Services\Images\DrakeShop.Images\bin\Debug\net8.0\GoogleCredentials\storage-429410-9203e7212934.json

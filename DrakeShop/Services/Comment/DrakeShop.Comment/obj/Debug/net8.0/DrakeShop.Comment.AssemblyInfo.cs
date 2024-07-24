@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("2c9aadc3-9265-4758-afc5-9000ab83c9a6")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrakeShop.Comment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44764841d5c8aee32b3fdc495f7eb7d82e952f45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecea0d267ea0d433c735e0648141486bea234d10")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrakeShop.Comment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrakeShop.Comment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

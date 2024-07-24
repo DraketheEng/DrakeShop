@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1S6/4V0lsZ4=",
+  "dgSpecHash": "1KZbezjDG+k=",
   "success": true,
   "projectFilePath": "C:\\Users\\agirb\\Desktop\\CAN\\PROJELER\\E-Commerce\\DrakeShop\\ApiGateway\\DrakeShop.OcelotGateway\\DrakeShop.OcelotGateway.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\agirb\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.35.0\\microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
     "C:\\Users\\agirb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\agirb\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\agirb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\agirb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\agirb\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\agirb\\.nuget\\packages\\ocelot\\23.1.0\\ocelot.23.1.0.nupkg.sha512",

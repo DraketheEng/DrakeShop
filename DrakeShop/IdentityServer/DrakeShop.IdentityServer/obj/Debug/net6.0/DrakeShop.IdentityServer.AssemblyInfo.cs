@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrakeShop.IdentityServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32113d16102bbf701b39657064a6e2577a5a73e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecea0d267ea0d433c735e0648141486bea234d10")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrakeShop.IdentityServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrakeShop.IdentityServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

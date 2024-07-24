@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrakeShop.Order.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2c0ca24e9174910d50376af7e4c214f7769a43a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecea0d267ea0d433c735e0648141486bea234d10")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrakeShop.Order.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrakeShop.Order.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
